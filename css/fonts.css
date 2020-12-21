@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Piedra';
+    src: url('../fonts/piedra/Piedra-Regular.eot');
+    src: url('../fonts/piedra/Piedra-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/piedra/Piedra-Regular.woff2') format('woff2'),
+        url('../fonts/piedra/Piedra-Regular.woff') format('woff'),
+        url('../fonts/piedra/Piedra-Regular.ttf') format('truetype'),
+        url('../fonts/piedra/Piedra-Regular.svg#Piedra-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
