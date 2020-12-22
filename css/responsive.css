@@ -213,6 +213,9 @@
     height: 50px !important;
     top: 5% !important;
   }
+  .about-us p{
+    font-size: 10px;
+  }
 }
 @media (max-width: 380px) {
   .icons {
