@@ -213,8 +213,8 @@
     height: 50px !important;
     top: 5% !important;
   }
-  .about-us p{
-    font-size: 10px !important;
+  .about-us p {
+     font-size: 10px !important;
   }
 }
 @media (max-width: 380px) {
